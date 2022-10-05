@@ -20,9 +20,9 @@ Want to bully anyone who joins your server? Look no further with this mod! Now y
 - `slay someone/imc/militia/all`
 - `switchteam/st someone/imc/militia/all`
 - `respawn/rpwn someone/imc/militia/all someone/spawn/BLANK pilot/titan/BLANK`
-- `gift <weaponId> <someone/imc/militia/all> <mods1> <mods2> <mods3>` //gives selected person a weapon
+- `gift <weaponId> <someone/imc/militia/all> <mods1> <mods2> <mods3>` //gives selected person a weapon also using the "save" keyword after the 3rd argument saves it to the player
 - `rearm someone/imc/militia/all` // refill tacticals/abilities/cores
-- `fly someone/imc/militia/all` to noclip
+- `fly someone/imc/militia/all` //to noclip
 - `titanfall/tf <someone/imc/militia/all>`
 - `teleport <someone/imc/militia/all> <someone/crosshair>` //teleport everybody to your crosshair, teleport someone to another person, teleport everyone to you, 
     teleport one team to your crosshair
